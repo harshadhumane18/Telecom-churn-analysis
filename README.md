@@ -19,6 +19,6 @@ In this project, we aim to delve into the customer churn rate within Orange Tele
 The EDA for the Telecom Churn Analysis aims to uncover patterns in customer behavior, identify factors influencing churn, and provide insights into customer segments most prone to switching providers. This analysis aims to reveal correlations between service usage, pricing plans, and customer demographics to assist in strategizing retention initiatives and optimizing marketing strategies, ultimately reducing churn rates and enhancing customer retention for the telecom company.
 
 ### Contributor:
-Project maintainer: Harshad Humane
-Github: https://github.com/harshadhumane18
+Project maintainer: Harshad Humane  
+Github: https://github.com/harshadhumane18  
 Linkedin: https://www.linkedin.com/in/harshad-humane-742729238/
