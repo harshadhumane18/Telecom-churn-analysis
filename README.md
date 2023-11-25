@@ -3,7 +3,6 @@
 ![94357telecom churn](https://github.com/harshadhumane18/Telecom-churn-analysis/assets/150341445/243b73cb-d3ba-42c7-b55b-caafc1b730e0)
 
 ### Overview:
-<<<<<<< HEAD
 #### Background:
 The telecom industry faces a persistent challenge of customer churn, where subscribers discontinue their services with a particular provider and switch to competitors. Churn not only impacts revenue but also reflects customer satisfaction and service quality. Understanding and predicting churn patterns can enable telecom companies to proactively retain customers by offering targeted incentives or improving service quality.
 
