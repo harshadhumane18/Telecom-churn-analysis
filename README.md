@@ -1,4 +1,18 @@
 # Telecom Churn Analysis
 
 ### Overview:
-The Telecom Churn Analysis project delves into Orange Telecom's cleansed customer activity data, focusing on identifying factors leading to subscription cancellations. Through extensive Exploratory Data Analysis (EDA), the project aims to uncover pivotal insights driving customer churn. By scrutinizing various features alongside churn labels, it seeks to pinpoint patterns, behaviors, and correlations influencing customer attrition. Ultimately, the analysis endeavors to propose actionable recommendations and strategies to enhance customer retention, leveraging the discovered insights for proactive measures and improved service offerings.
+#### Background:
+The telecom industry faces a persistent challenge of customer churn, where subscribers discontinue their services with a particular provider and switch to competitors. Churn not only impacts revenue but also reflects customer satisfaction and service quality. Understanding and predicting churn patterns can enable telecom companies to proactively retain customers by offering targeted incentives or improving service quality.
+
+#### Objective:
+The objective of this project is to develop a predictive model that accurately anticipates customer churn in a telecom company. By analyzing historical customer data, the aim is to identify patterns, factors, and indicators that contribute to churn behavior. The model will assist in predicting which customers are likely to churn, allowing the company to take proactive measures to retain them.
+
+#### Data Description:
+The project will utilize a dataset containing a variety of customer-related features such as call duration, usage patterns, customer demographics, contract information, and service-specific details. This dataset spans a defined time period and includes both churned and active customers.
+
+### Problem statment:
+In this project, we aim to delve into the customer churn rate within Orange Telecom. By conducting exploratory data analysis (EDA), our goal is to uncover pivotal factors influencing customer churn. Through comprehensive data exploration, patterns identification, and analysis of key metrics, we seek to provide actionable insights and strategic recommendations to improve customer retention strategies for Orange Telecom. The project ultimately focuses on understanding the drivers behind customer churny.
+
+### Expected outcomes:
+The EDA for the Telecom Churn Analysis aims to uncover patterns in customer behavior, identify factors influencing churn, and provide insights into customer segments most prone to switching providers. This analysis aims to reveal correlations between service usage, pricing plans, and customer demographics to assist in strategizing retention initiatives and optimizing marketing strategies, ultimately reducing churn rates and enhancing customer retention for the telecom company.
+
