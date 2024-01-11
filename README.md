@@ -25,7 +25,7 @@ The Exploratory Data Analysis (EDA) process will include the following steps:
 ## Expected Outcomes
 The EDA for the Telecom Churn Analysis aims to uncover patterns in customer behavior, identify factors influencing churn, and provide insights into customer segments most prone to switching providers. This analysis aims to reveal correlations between service usage, pricing plans, and customer demographics to assist in strategizing retention initiatives and optimizing marketing strategies, ultimately reducing churn rates and enhancing customer retention for the telecom company.
 
-## Contributor
+## 🚀 Contributor
 Project maintainer: Harshad Humane 
-- Github
-- Linkedin
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-humane-742729238/)
+
